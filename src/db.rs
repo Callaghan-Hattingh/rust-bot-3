@@ -1,5 +1,3 @@
-#![allow(unused)]
-
 use sea_orm::*;
 use sea_orm_migration::prelude::*;
 
